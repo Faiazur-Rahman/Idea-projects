@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Sep 25 16:23:58 BDT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0183-742c-d3ad-00000233ee00 
+on database directory memory:C:\Users\BS943\plaidProject\lib\681d0707-d6c6-46cb-9ca3-44c71a22c8da with class loader org.springframework.boot.loader.LaunchedURLClassLoader@1cf4f579 
+Loaded from jar:file:/C:/Users/BS943/plaidProject/lib/firstSpringBootApp-1.0-SNAPSHOT.jar!/BOOT-INF/lib/derby-10.14.2.0.jar!/
+java.vendor=Oracle Corporation
+java.runtime.version=18.0.2+9-61
+user.dir=C:\Users\BS943\plaidProject\lib
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
